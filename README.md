@@ -1,5 +1,5 @@
 # **Interpretable Vision Transformers for Clinical Decision Support**
-
+Medium post: https://medium.com/@rahulkumar_dev/why-i-built-an-ai-that-sees-less-to-diagnose-better-2606bc39b6ba
 ### *A Logical Summary of the Proposed Approach*
 
 ## **1. Introduction**
